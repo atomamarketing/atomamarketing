@@ -1,6 +1,7 @@
 <div align="center">
+  <img src="763355853_122248629614146921_476720175925085098_n.jpg" alt="Atoma Marketing Agency Logo" width="300"/>
   <h1>Welcome to Atoma Marketing Agency 👋</h1>
-  <p><strong>Innovating digital experiences and scaling brands through strategic marketing.</strong></p>
+  <p><strong>One Idea. Infinite Impact.</strong></p>
 </div>
 
 ---
@@ -19,14 +20,3 @@ Whether you want to collaborate on a project or inquire about our services, we'd
 
 - **📧 Email:** [atoma.marketing@mail.ru](mailto:atoma.marketing@mail.ru)
 - **👥 Facebook:** [Atoma Marketing Agency](https://www.facebook.com/profile.php?id=61592623750190)
-
----
-
-### 🛠️ Tech Stack & Tools We Work With
-*(Optional: If your agency does web development or uses specific tools, list them below)*
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
