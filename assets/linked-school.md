@@ -24,11 +24,30 @@ Our content strategy relied on strong, direct messaging that challenged the stat
 *   **The Right to Choose:** We crafted copy comparing education to a restaurant—asking why students accept being forced into a specific teaching style when they wouldn't accept being forced to eat a specific meal.
 *   **Transparency & Commitment:** We focused on the partnership between a dedicated teacher and a committed student, stating that without mutual respect for time, the result is zero. We positioned Linked School as a place built on commitment and transparency (أساسه الالتزام والشفافية).
 
-<div align="center">
-  <img src="../assets/image_90975d.png" alt="Linked School" width="500"/>
-  <p><em>Lead generation campaign highlighting student empowerment.</em></p>
-</div>
+### Campaign Presentation Grid
 
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="assets/1.png" alt="Student Voice Campaign" width="100%">
+      <br><em>Lead generation: "Your voice makes a difference!"</em>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="assets/2.png" alt="Freedom of Choice" width="100%">
+      <br><em>Core USP: Freedom to choose your teacher.</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="assets/3.png" alt="Commitment and Transparency" width="100%">
+      <br><em>Brand Value: Built on commitment and transparency.</em>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="assets/4.png" alt="Student as the Focus" width="100%">
+      <br><em>Brand Value: Making the student the center of attention.</em>
+    </td>
+  </tr>
+</table>
 ## 📊 Campaign Performance & Metrics
 We launched targeted boosted campaigns across Meta platforms (Facebook and Instagram). Below is a snapshot of the primary ad campaign performance aimed at driving messages and inquiries.
 
