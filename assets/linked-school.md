@@ -29,21 +29,21 @@ Our content strategy relied on strong, direct messaging that challenged the stat
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="assets/1.png" alt="Student Voice Campaign" width="100%">
+      <img src="../assets/1.png" alt="Student Voice Campaign" width="100%">
       <br><em>Lead generation: "Your voice makes a difference!"</em>
     </td>
     <td align="center" style="border: none;">
-      <img src="assets/2.png" alt="Freedom of Choice" width="100%">
+      <img src="../assets/2.png" alt="Freedom of Choice" width="100%">
       <br><em>Core USP: Freedom to choose your teacher.</em>
     </td>
   </tr>
   <tr>
     <td align="center" style="border: none;">
-      <img src="assets/3.png" alt="Commitment and Transparency" width="100%">
+      <img src="../assets/3.png" alt="Commitment and Transparency" width="100%">
       <br><em>Brand Value: Built on commitment and transparency.</em>
     </td>
     <td align="center" style="border: none;">
-      <img src="assets/4.png" alt="Student as the Focus" width="100%">
+      <img src="../assets/4.png" alt="Student as the Focus" width="100%">
       <br><em>Brand Value: Making the student the center of attention.</em>
     </td>
   </tr>
